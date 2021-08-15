@@ -71,9 +71,3 @@ you need some following tools to run this tool
 [-] Website : www.spinthehack.in
 	
 [-] https://linktr.ee/spinthehack
-
-# DONATE
-
-If this project help you reduce time to recon, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/DevarshParmar)
