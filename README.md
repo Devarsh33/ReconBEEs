@@ -50,10 +50,12 @@ you need some following tools to run this tool
   
 # INSTALLATION
 
-1.) First install requirements.txt:
+1.) Download all files...!!
+
+2.) install requirements.txt:
 
     pip3 install requirements.txt
 
-2.) Run bheem.py file:
+3.) Run bheem.py file:
 
     python3 bheem.py
