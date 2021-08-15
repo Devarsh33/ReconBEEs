@@ -59,3 +59,21 @@ you need some following tools to run this tool
 3.) Run bheem.py file:
 
     python3 bheem.py
+
+# CREDITS
+
+[!] Created by : Devarsh Parmar (STARLORD_3307)
+
+[-] Linkedin : https://www.linkedin.com/in/devarsh-parmar-992b5b169
+
+[!] Idea behind of this tool suggested by : Zeel Patel (Cyber Zeel)
+
+[-] Website : www.spinthehack.in
+	
+[-] https://linktr.ee/spinthehack
+
+# DONATE
+
+If this project help you reduce time to recon, you can give me a cup of coffee :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](parmardevarsh723@gmail.com)
