@@ -76,4 +76,4 @@ you need some following tools to run this tool
 
 If this project help you reduce time to recon, you can give me a cup of coffee :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](parmardevarsh723@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/DevarshParmar)
