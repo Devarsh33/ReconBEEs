@@ -54,7 +54,7 @@ you need some following tools to run this tool
 
 2.) install requirements.txt:
 
-    pip3 install requirements.txt
+    pip3 install -r requirements.txt
 
 3.) Run bheem.py file:
 
